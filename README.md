@@ -8,3 +8,5 @@ from [Here](http://people.cs.uchicago.edu/~rbg/latent-release5/).
 ## Functionalities
  - Extract fHOG feature
  - Visualize the fHOG feature
+ 
+![alt tag](./show.png)
