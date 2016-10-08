@@ -1,5 +1,5 @@
 # HOGVisualization
-This project implements fHOG (felzenszwalb's HOG) feature and its visualization in c++. The original Matlab code can be dowloaded
+This project implements fHOG (felzenszwalb's HOG) feature and its visualization in c++. The original MATLAB code can be dowloaded
 from [Here](http://people.cs.uchicago.edu/~rbg/latent-release5/).
 
 ## Dependencies
